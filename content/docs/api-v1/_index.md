@@ -19,7 +19,7 @@ If the Mailpit server is set to use Basic Authentication, then all API requests 
 {{< /tip >}}
 
 {{< tip >}}
-You can also view the **interactive** API documentation directly within Mailpit by going to `http://localhost:8025/api/v1/` (you may need to adjust to the IP address of your Mailpit instance).
+You can also view the **interactive** API documentation directly within Mailpit by going to `http://localhost:8025/api/v1/index.html` (you may need to adjust to the IP address of your Mailpit instance).
 {{< /tip >}}
 
 {{< tip >}}
